@@ -1,4 +1,4 @@
-# dates
+# Wiki-historic
 
 ## Descripción del Proyecto
 Este proyecto es una API desarrollada con Flask, un microframework para Python, que ofrece funcionalidad para gestionar perfiles y realizar búsquedas avanzadas en Wikipedia. A continuación se detallan los componentes y características principales:

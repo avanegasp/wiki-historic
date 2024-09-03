@@ -5,9 +5,9 @@ Este proyecto es una API desarrollada con Flask, un microframework para Python, 
 
 ### Rutas/Endpoints: La API expone varias rutas que permiten realizar operaciones HTTP:
 
-- / para verificar el funcionamiento general de la API.
-- /profiles para obtener una lista de perfiles existentes en la base de datos.
-- /create_profile para crear un nuevo perfil y realizar una búsqueda en Wikipedia basada en los datos del perfil.
+- '/' para verificar el funcionamiento general de la API.
+- '/profiles' para obtener una lista de perfiles existentes en la base de datos.
+- '/create_profile' para crear un nuevo perfil y realizar una búsqueda en Wikipedia basada en los datos del perfil.
 
 ### Métodos HTTP: La API utiliza métodos HTTP estándar:
 
